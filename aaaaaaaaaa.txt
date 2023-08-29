@@ -1,0 +1,1 @@
+1. http package usage, creating bot, establishing connection - 1 pomodoro
